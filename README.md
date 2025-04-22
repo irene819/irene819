@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Irene</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irene819&label=Profile%20views&color=0e75b6&style=flat" alt="irene819" /> </p>
 
-- 💬 Ask me about **html5, css**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Don`t+give+up+;)](https://git.io/typing-svg)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
