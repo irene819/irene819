@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Don`t+give+up+;)](https://git.io/typing-svg)
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
